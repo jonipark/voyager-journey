@@ -1,7 +1,7 @@
 # Voyager's Journey
 
-<img width="500" alt="Screen Shot 2023-04-09 at 9 39 37 PM" src="https://user-images.githubusercontent.com/89917595/230820162-ffbec6ba-5e82-4c39-a862-3e50e229b7c7.png"> <img width="500" alt="Screen Shot 2023-04-09 at 9 39 06 PM" src="https://user-images.githubusercontent.com/89917595/230820301-e0f446a6-61fe-4adf-9d83-6cbbb6c1851d.png">
-<img width="500" alt="Screen Shot 2023-04-09 at 9 39 42 PM" src="https://user-images.githubusercontent.com/89917595/230820155-4a8f82a8-249e-4eef-8612-07bd70e15dc0.png"> <img width="500" alt="Screen Shot 2023-04-09 at 9 38 47 PM" src="https://user-images.githubusercontent.com/89917595/230820264-fa5e086b-c730-45a3-b291-485b79c299df.png">
+<img width="400" alt="Screen Shot 2023-04-09 at 9 39 37 PM" src="https://user-images.githubusercontent.com/89917595/230820162-ffbec6ba-5e82-4c39-a862-3e50e229b7c7.png"> <img width="400" alt="Screen Shot 2023-04-09 at 9 39 06 PM" src="https://user-images.githubusercontent.com/89917595/230820301-e0f446a6-61fe-4adf-9d83-6cbbb6c1851d.png">
+<img width="400" alt="Screen Shot 2023-04-09 at 9 39 42 PM" src="https://user-images.githubusercontent.com/89917595/230820155-4a8f82a8-249e-4eef-8612-07bd70e15dc0.png"> <img width="400" alt="Screen Shot 2023-04-09 at 9 38 47 PM" src="https://user-images.githubusercontent.com/89917595/230820264-fa5e086b-c730-45a3-b291-485b79c299df.png">
 
 
 ## Game Overview:
