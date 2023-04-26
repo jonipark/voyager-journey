@@ -17,6 +17,8 @@ https://user-images.githubusercontent.com/89917595/230820749-f79376d1-ebe9-4049-
 
 ## Implementation
 #### Parenting & Orbiting:
+![Voyager's Journey](https://user-images.githubusercontent.com/89917595/234720916-c94af34c-a13b-4a25-a785-7dc380987008.png)
+
 - Two soldiers are orbiting Voyager object
   ```
   double orbitRadius = 80;
@@ -34,7 +36,7 @@ https://user-images.githubusercontent.com/89917595/230820749-f79376d1-ebe9-4049-
   drawSprites(soldierTwo.x, soldierTwo.y, soldierTwo.picture);
   ```
 
-#### Enemy’s movement: easing
+#### Enemy’s movement
 - move() function within the Enemy class controls the random movement of the enemy.
   ```
   public void move() {
